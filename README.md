@@ -28,15 +28,15 @@ https://www.youtube.com/c/HA-MRX
 https://www.youtube.com/watch?v=-e3Iia_P7rA
 
 
-ZH-CN:
-首先从Github克隆到本地：
+###ZH-CN:
+###首先从Github克隆到本地：
 git clone https://github.com/Ha3MrX/DDos-Attack
 git clone https://github.com/wang3y2/DDos-Attack (备用)
-然后进入DDos-Attack这个目录：
+###然后进入DDos-Attack这个目录：
 cd DDos-Attack
-接着给ddos-attack.py设置权限：
+###接着给ddos-attack.py设置权限：
 chmod +x ddos-attack.py
-用Python去运行ddos-attack.py这个python脚本：
+###用Python去运行ddos-attack.py这个python脚本：
 python ddos-attack.py
-输入攻击的IP/端口 
+###输入攻击的IP/端口 
 BY:https://www.sy8.in (大佬们别打我)
